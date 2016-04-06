@@ -1,0 +1,16 @@
+h1 {
+  text-transform: uppercase;
+  font-style: italic;
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 100;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+}
